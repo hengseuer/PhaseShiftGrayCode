@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<imagelist>
+"../myimages/Model2/L/Graycodeleft001.bmp"
+"../myimages/Model2/R/Graycoderight001.bmp"
+"../myimages/Model2/L/Graycodeleft002.bmp"
+"../myimages/Model2/R/Graycoderight002.bmp"
+"../myimages/Model2/L/Graycodeleft003.bmp"
+"../myimages/Model2/R/Graycoderight003.bmp"
+"../myimages/Model2/L/Graycodeleft004.bmp"
+"../myimages/Model2/R/Graycoderight004.bmp"
+"../myimages/Model2/L/Graycodeleft005.bmp"
+"../myimages/Model2/R/Graycoderight005.bmp"
+"../myimages/Model2/L/Graycodeleft006.bmp"
+"../myimages/Model2/R/Graycoderight006.bmp"
+"../myimages/Model2/L/PhaseShiftleft001.bmp"
+"../myimages/Model2/R/PhaseShiftright001.bmp"
+"../myimages/Model2/L/PhaseShiftleft002.bmp"
+"../myimages/Model2/R/PhaseShiftright002.bmp"
+"../myimages/Model2/L/PhaseShiftleft003.bmp"
+"../myimages/Model2/R/PhaseShiftright003.bmp"
+"../myimages/Model2/L/PhaseShiftleft004.bmp"
+"../myimages/Model2/R/PhaseShiftright004.bmp"
+</imagelist>
+</opencv_storage>

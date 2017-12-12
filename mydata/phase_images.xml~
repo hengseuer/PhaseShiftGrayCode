@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<imagelist>
+"../myimages/Model1/Graycode1.bmp"
+"../myimages/Model1/Graycode2.bmp"
+"../myimages/Model1/Graycode3.bmp"
+"../myimages/Model1/Graycode4.bmp"
+"../myimages/Model1/Graycode5.bmp"
+"../myimages/Model1/Graycode6.bmp"
+"../myimages/Model1/phaseshift1.bmp"
+"../myimages/Model1/phaseshift2.bmp"
+"../myimages/Model1/phaseshift3.bmp"
+"../myimages/Model1/phaseshift4.bmp"
+</imagelist>
+</opencv_storage>
